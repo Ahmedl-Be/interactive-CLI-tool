@@ -1,8 +1,8 @@
 
+```
 # Course Management CLI Tool
 
-This is an interactive CLI tool to manage your courses. It provides two commands: `add` and `list`. The `add` command allows you to add new courses by answering a series of questions,
-and the `list` command displays a list of all the courses you have added.
+This is an interactive CLI tool to manage your courses. It provides two commands: `add` and `list`. The `add` command allows you to add new courses by answering a series of questions, and the `list` command displays a list of all the courses you have added.
 
 ## Prerequisites
 
@@ -42,4 +42,11 @@ This project utilizes the following npm library:
 
 The `courses-manger` package is available on NPM. Please make sure to install it globally using the command mentioned in the installation section.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to customize and enhance the CLI tool according to your specific needs. If you have any questions or suggestions, please feel free to reach out.
+
+Happy course management!
 ```
