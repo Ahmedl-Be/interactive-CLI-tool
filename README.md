@@ -1,5 +1,3 @@
-
-```
 # Course Management CLI Tool
 
 This is an interactive CLI tool to manage your courses. It provides two commands: `add` and `list`. The `add` command allows you to add new courses by answering a series of questions, and the `list` command displays a list of all the courses you have added.
