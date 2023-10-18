@@ -40,14 +40,3 @@ This project utilizes the following npm library:
 - [courses-manger](https://www.npmjs.com/package/courses-manger): A CLI tool for managing courses.
 
 The `courses-manger` package is available on NPM. Please make sure to install it globally using the command mentioned in the installation section.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize and enhance the CLI tool according to your specific needs. If you have any questions or suggestions, please feel free to reach out.
-
-Happy course management!
-```
-
-You can copy the above content and paste it directly into your own `README.md` file.
