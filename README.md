@@ -47,4 +47,3 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to customize and enhance the CLI tool according to your specific needs. If you have any questions or suggestions, please feel free to reach out.
 
 Happy course management!
-```
