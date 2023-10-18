@@ -9,36 +9,47 @@ This is an interactive CLI tool to manage your courses. It provides two commands
 
 ## Installation
 
-1. Install the `courses-manger` package globally using NPM:
+1. Clone the repository:
    ```
-   npm install -g courses-manger
+   git clone https://github.com/your-username/course-management-cli.git
+   ```
+
+2. Navigate to the project directory:
    ````
+   cd course-management-cli
+   ```
+
+3. Install the dependencies:
+   ````
+   npm install
+   ```
 
 ## Usage
 
-To use the CLI tool, open your terminal or command prompt and run the following commands:
+To use the CLI tool, open your terminal or command prompt and navigate to the project directory. Then, you can run the following commands:
 
 ### Add a Course
 
 To add a new course, use the following command and answer the prompted questions:
 ```
-courses-manger add
+node index.js add
 ```
 
 ### List Courses
 
 To list all the courses you have added, use the following command:
 ```
-courses-manger list
+node index.js list
 ```
 
-## Library Used
+## Libraries Used
 
-This project utilizes the following npm library:
+This project utilizes the following npm libraries:
 
-- [courses-manger](https://www.npmjs.com/package/courses-manger): A CLI tool for managing courses.
+- [Commander](https://www.npmjs.com/package/commander): A lightweight command-line framework for building CLI applications.
+- [Inquirer](https://www.npmjs.com/package/inquirer): A collection of common interactive command-line user interfaces.
 
-The `courses-manger` package is available on NPM. Please make sure to install it globally using the command mentioned in the installation section.
+Please make sure to install the required dependencies by running `npm install` before using the CLI tool.
 
 ## License
 
